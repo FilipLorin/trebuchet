@@ -119,7 +119,7 @@ line([0, 0], [0, h_0])
 legend("r_1", "r_2", "r_a", location='southeast')
 
 
-% figure % DOF angles plot
+% figure % plot of DOF angles in time
 % plot(t_space(1:release), 180/pi*q(1,1:release))
 % hold on
 % plot(t_space(1:release), 180/pi*q(2, 1:release))
