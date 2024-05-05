@@ -122,6 +122,7 @@ plot(r2x,r2y,'s');
 plot(rax,ray,'*');
 hold off
 grid on
+axis equal
 legend
 
 
